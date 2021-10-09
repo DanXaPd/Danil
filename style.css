@@ -1,0 +1,32 @@
+
+.header{
+    margin: auto;
+    width: 1000px;
+    border: none;
+}
+.table_l, .table_r{
+    
+}
+td {
+    border-bottom: 1px solid black;
+    width: 500px;
+    height: 100px;
+}
+h2 {
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+    border-radius:100% ;
+}
+.box_ancher  {
+    text-align: center;
+}
+.ancher {
+    border: 1px solid black;
+    padding: 10px 50px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
